@@ -8,6 +8,7 @@ setup(
     summary = "A Test Plugin",
     description = 
     """A very simple example on what an OpenProximity plugins looks like""",
+    include_package_data = True,
     author = "Naranjo Manuel Francisco",
     author_email = "manuel@aircable.net",
     license = "GPL2",
